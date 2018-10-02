@@ -1,0 +1,24 @@
+﻿Pirmame amžiuje romėnai užspiedė 40 vyrų kurie gynė Yodfat miestą. Gynėjai neturėjo jokio noro pasiduoti ir nusprendė geriau nusižudyti. 
+Bet niekas nenorėjo atimti savo givybės, dėl to visi sustojo ratu ir pasiėmė vieną kalaviją. 
+Tas kuris turėjo kalaviją, nudobė vyrą savo kairėje ir perdavė kalaviją toliau kairėje esančiam kariui. 
+Tas savo ruoštu nudobė savo kairėje esantį ir perdavė kalaviją toliau. 
+Tarp šių vyrų buvo Juozapas kuris ir papasakojo šitą istoriją. Jis teigė jog dievo valia jis išgyveno ir pasidavė.
+
+Gal dievas, o gal Juozapas buvo gudrus. Gal galite parašyti programą kuri duodam vyrų kiekiui surastų poziciją kuri išgyvens?
+
+Pavyzdžiai:
+Input:
+100
+Output:
+73
+
+Input:
+127
+Output:
+127
+
+2 balai
+
+Bonus parašyti variantą kur vyrai yra žudomi ne vienas šalia kito, bet per N vyrų į kairę, kalaviją perduodant vyrui kairėje nuo užmuštojo.
+
++1 (prie praeito arba šito testo)

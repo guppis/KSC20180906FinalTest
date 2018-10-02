@@ -1,0 +1,9 @@
+﻿Parašykite WinForm aplikaciją, paprastą kalkuliatorių.
+
+Suma, atimtis, dalyba, daugyba, šaknies traukimas, kėlimas laipsniu, atmintis.
+
+2 Balai
+
+Bonus istorija, operacijos atliekamos dvejetainėje, aštuntainėje ir šešiokliktainėje sistemoje.
+
++1 (prie praeito arba šito testo)

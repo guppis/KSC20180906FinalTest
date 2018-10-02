@@ -1,0 +1,41 @@
+﻿ROT13 yra vienas seniausias kodavimo šifras. Pasak legendų Cezaris jį naudojo, siųsti koduotus laiškus savo generolams.
+
+Veikiams labai paprastas lotyniški simboliai pakeičiami kitais. Pakeitimas vykdomas pagal alfabetą, raidės pakeičiamos pozicijoje pastumtose per 13. Dėl to sifras vadinasi ROT13.
+
+Plačiau https://en.wikipedia.org/wiki/ROT13
+
+WinForm programa
+
+Parašykite programą kuri koduotų ir dekoduotų žinutes ROT13 Šifru. 
+
+Duomenis suvedant ir rezultatą išvedant tiek į textBox komponentą, tiek galimybė duoti failus.
+
+Taip pat egzistuoja ROT1, ROT2 ir t.t. iki pat 13. Papildikyte programą kuri leistų pasirinkti šifrą.
+{visus nuo ROT1 iki ROT13)
+
+2 Balai
+
+Bonus:
+Dar vienas paprastas kodavimo variantas yra vadinamas knygos kodu. Kai yra paimama, pvz Biblijos, citata ir žinutė yra koduojama panašiaip, kaip ROT būdu, tik kad raidės yra pastumiamos per atstumą pagal citatą. Pvz: (aš naudoju alfabetą prasidedantį 1, a-0, b-1, c-2... Tarpai yra ignoruojami lyg neegzistuotų, tiek rakte tiek žinutėje, jeigu raktas yra trumpesnis nei žinutė, pasibaigus raktui jis pradedamas naudoti nuo pradžios)
+Raktas: Sveiki gyvi
+Žinutė: Labas rytas
+Koduota: 
+S(18)-> L(11) -> D (11+18=29 -> 29-26 -> 3 -> D)
+V(21)-> A(0)  -> V
+E(4) -> B(1)  -> F
+I(8) -> A(0)  -> I
+K(10)-> S(18) -> C
+I(8) -> R(17) -> Z
+G(6) -> Y(24) -> E
+Y(24)-> T(19) -> R
+V(21)-> A(0)  -> V
+I(8) -> S(18) -> A
+
+Implementuoti šitokį kodavimą kaip dar vieną galimybė, pateikiant tiek raktą tiek tekstą kaip failus ir su galimybe juos suvesti į textBox componentą.
+
++1 (prie praeito arba šito testo)
+
+Bonus 2:
+Padaryti galimybė žinutę koduoti pagal du ar daugiau šifrų (taip pat ir dekodaciją), taikant vieną, o paskui ir kitą šifrą ar metodologiją.
+
++1 (prie praeito arba šito testo)
